@@ -12,7 +12,13 @@
 font-family: arial, sans-serif;}
 
 span { display: inline-block;
-padding: 30px}
+padding:34px;
+border-color: darkblue;
+border-width: 10px;
+border-style: solid;
+border-collapse: collapse;
+
+}
 
 
 
