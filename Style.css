@@ -19,6 +19,15 @@ border-style: solid;
 border-collapse: collapse;
 
 }
+h1,h2 {
+padding: 2px;}
+
+h3{
+  color: black;
+  text-align: left;
+  font-size: 140%;
+  margin-bottom:75px;
+}
 
 
 
